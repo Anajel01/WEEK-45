@@ -1,0 +1,24 @@
+/* we made _variable.scss, where we wrote colours and added them here, could be used for colours */
+body {
+  background-color: #cc8861;
+}
+
+header {
+  background-color: #cc8861;
+}
+header nav {
+  background-color: #8d6464;
+}
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+  display: flex;
+  margin: 0 10px;
+}
+header nav ul li a {
+  color: #cc8861;
+}
+header nav ul li b {
+  color: #cc8861;
+}/*# sourceMappingURL=style.css.map */

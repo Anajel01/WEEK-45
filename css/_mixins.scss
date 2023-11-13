@@ -1,0 +1,17 @@
+@mixin button-style {
+    background-color: $primary-color;
+    color: $secondary-color;
+    padding: 10px 20px;
+    border: 2px solid $secondary-color;
+    border-radius: 5px;
+    
+}
+
+@mixin primary-button($color){
+    background-color: $color;
+    color: $primary-color;
+    padding: 10px 20px;
+    border: 2px solid $secondary-color;
+    border-radius: 5px;
+    
+}
